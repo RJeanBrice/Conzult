@@ -1,0 +1,25 @@
+Field=Fitted~String~Fitted~79|Field=Description~String~Description~311|Field=Designator~String~Designator~161|Field=Quantity~Integer~Quantity~129|Field=Manufacturer 1~String~Manufacturer 1~196|Field=Manufacturer Part Number 1~String~Manufacturer Part Number 1~196|Field=Supplier 1~String~Supplier 1~196|Field=Supplier Part Number 1~String~Supplier Part Number 1~199|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Conzult.PrjPcb|ReportField=ProjectFullPath~C:\Users\Reginald Jean-Price\Documents\Conzult Tool\Conzult\Conzult.PrjPcb|ReportField=Title~Times Square Bom For Variant [Production] of PCB Document [Conzult.PcbDoc]|ReportField=TotalQuantity~41|ReportField=ReportTime~1:28:26 PM|ReportField=ReportDate~2/9/2016|ReportField=ReportDateTime~2/9/2016 1:28:26 PM|ReportField=OutputName~Times Square Bom|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~Production|ReportField=DataSourceFileName~Conzult.PcbDoc|ReportField=DataSourceFullPath~C:\Users\Reginald Jean-Price\Documents\Conzult Tool\Conzult\Conzult.PcbDoc
+Fitted|Array Diode Vclamp = VCC+25V @ 10A SOT-5|D1|1|TEXAS INSTRUMENTS|TPD2E001DRLRG4|Digi-Key|296-35960-2-ND
+Fitted|Bicolor LED, Red/Green, 2V @20mA, 35/45mcd, 1210|D6|1|LITE-ON|LTST-C155KGJRKT|Digi-Key|160-1409-1-ND
+Fitted|Bridge, USB to UART|U1|1|FTDI |FT232RL|Digikey|768-1007-1-ND
+Fitted|Ceramic Capacitor 0.1uF 50V +/-10% X7R SMT-0603|C1, C2, C5, C7, C8, C10|6|Samsung|CL10B104KB8NNNC|Arrow|CL10B104KB8NNNC
+Fitted|Ceramic Capacitor 1000pF 50V +/-5% X7R SMT-0603|C4, C6|2|KEMET|C0603C102J5RACTU|Digi-Key|399-1083-6-ND
+Fitted|Ceramic Capacitor 100pF 50V +/-5% C0G SMT-0603|C3|1|TDK|C1608C0G1H101J080AA|Arrow|C1608C0G1H101J080AA
+Fitted|Ceramic Capacitor 10uF 6.3V +/-20% X5R SMT-0603|C9|1|MURATA ELECTRONICS|GRM188R60J106ME47J|Arrow|GRM188R60J106ME47J
+Fitted|Ceramic Capacitor 22pF 50V +/-5% C0G SMT-0603|C11, C12|2|TDK|C1608C0G1H220J080AA|Arrow|C1608C0G1H220J080AA
+Fitted|Crystal 8MHz HC49/US 11.4mmx4.7 mm 30ppm|Y1|1||||
+Fitted|IC BNRY COUNTR/DIV 14STG 16TSSOP|U4|1||||
+Fitted|IC REG LDO 5V 0.8A SOT223|U3|1||||
+Fitted|MOSFET, Dual N /P Channel, +/-30Vds, 3.4A/-2.7A Id, 0.84W, SOT-23-6L|Q2|1|DIODES INC|DMG6602SVT-7|Digi-Key|DMG6602SVT-7DITR-ND
+Fitted|MOSFET, N-CH, 25Vds, 0.22A Id, 0.35W, SOT-23-3|Q1, Q3|2|FAIRCHILD SEMI|FDV301N|Digi-Key|FDV301NTR-ND
+Fitted|Red LED, 2.2V @ 20mA, 40mcd, 0805|D2, D3|2|DIALIGHT|598-8110-107F|Digi-Key|350-2038-1-ND
+Fitted|Resistor 0 1% 1/10W SMT-0603|R12|1|VISHAY DALE|CRCW06030000Z0EA|Digi-Key|541-0.0GTR-ND
+Fitted|Resistor 1.00K 1% 1/10W SMT-0603|R3, R4, R17, R18|4|Vishay Dale|CRCW06031K00FKEA|Arrow|CRCW06031K00FKEA
+Fitted|Resistor 10.0M 1% 1/10W SMT-0603|R15|1|Vishay Dale|CRCW060310M0FKEA|Arrow|CRCW060310M0FKEA
+Fitted|Resistor 10K 1% 1/10W SMT-0603|R1, R6, R7, R9, R10, R11, R13, R16|8|Vishay Dale|CRCW060310K0FKEA|Arrow|CRCW060310K0FKEA
+Fitted|Resistor 4.70K 1% 1/10W SMT-0603|R8|1|Vishay Dale|CRCW06034K70FKEA|Arrow|CRCW06034K70FKEA
+Fitted|Schottky Diode 0.285 @ 10mA SOD-323|D5|1|DIODES INC|B0540WS-7|Digi-Key|B0540WSDIDKR-ND
+Fitted|Single General Purpose Rail-to-rail Opamp, 1MHz GBP, 0.6V/uS|U2|1|MICROCHIP TECHNOLOGY|MCP6L01T-E/OT|Digi-Key|MCP6L01T-E/OTCT-ND
+Fitted|USB 2.0 Mini-AB Connector w/PTH Alignment Posts|J1|1|TE CONNECTIVITY|1-1734328-1|Digi-Key|A114944-ND
+Not Fitted|header male 5x1 vertical 2.54MM|J2|0|FCI|67997-210HLF|Digi-Key|609-3236-ND
+Not Fitted|Resistor 0 1% 1/10W SMT-0603|R14|0|VISHAY DALE|CRCW06030000Z0EA|Digi-Key|541-0.0GTR-ND
